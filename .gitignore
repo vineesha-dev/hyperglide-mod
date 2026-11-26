@@ -1,0 +1,5 @@
+*.log
+.sass-cache/
+_site/
+.cache/
+.DS_Store
